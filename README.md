@@ -1,16 +1,13 @@
-## Hi there 👋
+## Привет
 
-<!--
-**VadimBobrovnikov/VadimBobrovnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Вадим, аналитик данных.
 
-Here are some ideas to get you started:
+## Перечень работ:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Итоговая работа по блоку "Статистика" на курсе "Python для анализа данных" от нетологии:
+
+Дипломная работа курса "Python для анализа данных" от нетологии:
+
+Сравнительный анализ алгоритмов машинного обучения для задачи прогнозирования оттока клиентов:
+
+
